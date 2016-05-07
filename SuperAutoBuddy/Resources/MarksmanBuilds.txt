@@ -1,0 +1,3 @@
+vampiric;boots of speed;bt;berserker;runaan;rfc;ie;regards;
+bilgewater;boots of speed;botrk;berserker;pd;ie;scimitar;bt;
+essence;boots of speed;statikk;berserker;ie;bt;regards;
