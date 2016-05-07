@@ -118,7 +118,6 @@
   <ItemGroup>
     <None Include="Resources\item.txt" />
     <None Include="Resources\NavGraphSummonersRift" />
-    <None Include="Resources\ResharperSettings.DotSettings" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\MageBuilds.txt" />
